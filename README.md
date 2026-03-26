@@ -12,3 +12,6 @@ Se esta realizando el README durante la clase.
 
 Imagen simple
 ![Texto alternativo](carrito01.jpg)
+
+Imagen desde URL externa
+![Logo](https://images.ctfassets.net/3mv54pzvptwz/55YLwKPDnRXkqMBITRpWbC/0c2aefc04afa455c20e9ca0d209698e0/53174188191_42d4c831ae_o.jpg)
